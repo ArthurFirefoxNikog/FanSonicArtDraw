@@ -1,0 +1,10 @@
+{
+    "shape": "triangle",
+    "speed": 10,
+    "speed_invisible": 1000,
+    "screen": {
+        "width": 800,
+        "height": 800
+    },
+    "window": "1600x900"
+}
